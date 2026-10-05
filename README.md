@@ -1,53 +1,42 @@
-<div align="center">
+# hi, i'm fiona ♡
 
-# ♡ hi, i'm fiona ♡
+> computer science student — somewhere between code & creativity
 
-*computer science student · developer · creative mind*
+### a little about me
 
-୨୧ ─────────────── ୨୧
+- full-stack developer
+- interested in cybersecurity, design & creative coding
+- turning ideas into things, one commit at a time
+- always learning something new
 
-### about me
+### tech & tools
 
-୨୧ studying computer science  
-♡ interested in frontend, security & creative coding  
-୨୧ somewhere between code and design  
-♡ currently learning new things every day
+**development**
 
-<br>
+![Java](https://img.shields.io/badge/Java-E8A0BF?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-E8A0BF?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-E8A0BF?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-E8A0BF?style=flat-square&logo=angular&logoColor=white)
 
-### ♡ tech & tools
+**backend & cloud**
 
-![Java](https://img.shields.io/badge/Java-F4A7BB?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-E8A0BF?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-D98BA6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-F4A7BB?style=for-the-badge&logo=angular&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-E8A0BF?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-D88CA5?style=flat-square&logo=amazonwebservices&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-D88CA5?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-D88CA5?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-D88CA5?style=flat-square&logo=docker&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-D98BA6?style=for-the-badge&logo=docker&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-F4A7BB?style=for-the-badge&logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-E8A0BF?style=for-the-badge&logo=playwright&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-D98BA6?style=for-the-badge&logo=supabase&logoColor=white)
+**testing**
 
-<br>
+![Jest](https://img.shields.io/badge/Jest-C97896?style=flat-square&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-C97896?style=flat-square&logo=playwright&logoColor=white)
 
-### ♡ creative
+**design**
 
-![Figma](https://img.shields.io/badge/Figma-F4A7BB?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-E8A0BF?style=for-the-badge&logo=canva&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-D98BA6?style=for-the-badge&logo=gimp&logoColor=white)
-![Clip Studio Paint](https://img.shields.io/badge/Clip_Studio_Paint-F4A7BB?style=for-the-badge&logo=clipstudiopaint&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F1B5C8?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-F1B5C8?style=flat-square&logo=canva&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-F1B5C8?style=flat-square&logo=gimp&logoColor=white)
+![Clip Studio Paint](https://img.shields.io/badge/Clip_Studio_Paint-F1B5C8?style=flat-square&logo=clipstudiopaint&logoColor=white)
 
-<br>
+### elsewhere
 
-୨୧ ─────────────── ୨୧
-
-### find me here ♡
-
-[![Instagram](https://img.shields.io/badge/Instagram-F4A7BB?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/fionasmemories)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E8A0BF?style=flat-square&logo=pinterest&logoColor=white)](https://pinterest.com/fionasmemories)
-
-<br>
-
-*˚₊‧ coding my way through life ‧₊˚*
-
-</div>
+[instagram](https://instagram.com/fionasmemories) · [pinterest](https://pinterest.com/fionasmemories)
